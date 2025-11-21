@@ -16,6 +16,7 @@ body {
     background-color: #fbe8d8;
     height: 96px;
     padding: 0 48px;
+     width: 100vw;
 }
 .logo{
     height: 22px;
@@ -61,6 +62,7 @@ body {
    
 }
 .hero {
+     width: 100vw;
     margin: 0 auto;
     padding: 0 32px;
     gap: 96px;
