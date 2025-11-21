@@ -57,10 +57,10 @@ body {
     background-color: #fdf2e9;
     padding: 48px 0 96px 0;
      background-color: #fbe8d8;
+     width: 100vw;
    
 }
 .hero {
-    max-width: 1300px;
     margin: 0 auto;
     padding: 0 32px;
     gap: 96px;
